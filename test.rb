@@ -1,5 +1,5 @@
 #this is mostly git stuff
-puts 'hello world'
+puts 'everything is awesome'
 
 (1..100).each do |num|
   puts case
